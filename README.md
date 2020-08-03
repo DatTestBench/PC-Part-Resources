@@ -63,11 +63,11 @@ While they are a very useful reference resource, they may not be 100% accurate, 
 
 - [Taiphoon Burner](http://www.softnology.biz/files.html) *(`Freeware version -> CLICK HERE TO DOWNLOAD` for direct download)*
 
-	Somewhat niche tool, usefull for checking what memory IC your RAM uses (press `Read` in the toolbar at the top).
+	Somewhat niche tool, useful for checking what memory IC your RAM uses (press `Read` in the toolbar at the top).
 
 **Benchmarks**
 
-- [Unigine Superposition](https://benchmark.unigine.com/superposition)
+- [Unigine Superposition](https://benchmark.unigine.com/superposition) *(Download size is over 1GB)*
 
 	Modern benchmark that's capable of pushing highend GPUs, especially on 1080p Extreme and 8k optimized.
 
