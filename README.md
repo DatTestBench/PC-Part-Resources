@@ -56,7 +56,7 @@ I did not make any of these lists, and while they are a very useful reference re
 
 - [Taiphoon Burner](http://www.softnology.biz/files.html) *(`Freeware version -> CLICK HERE TO DOWNLOAD` for direct download)*
 
-	Somewhat niche tool, usefull for checking what memory IC your RAM uses (press `Read` in the toolbar at the top)
+	Somewhat niche tool, usefull for checking what memory IC your RAM uses (press `Read` in the toolbar at the top).
 
 **Benchmarks**
 
@@ -82,7 +82,7 @@ I did not make any of these lists, and while they are a very useful reference re
 
 - [Furmark](https://geeks3d.com/furmark/)
 
-	GPU torture test. Do note many GPUs will throttle clocks when they detect furmark, so not ideal for stability testing. (MSI's [Kombustor](https://geeks3d.com/furmark/kombustor/) is a very similar tool);
+	GPU torture test. Do note many GPUs will throttle clocks when they detect furmark, so not ideal for stability testing. (MSI's [Kombustor](https://geeks3d.com/furmark/kombustor/) is a very similar tool).
 
 
 
