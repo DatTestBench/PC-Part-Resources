@@ -1,5 +1,9 @@
 # PC Part Resources
 
+***Placeholder disclaimer***
+I did not make any of these lists, and while they are a very useful reference resource, they may not be 100% accurate, always doublecheck your data if you're researching something.
+
+
 ## PSU
 
 - [The most important PSU tier list](https://docs.google.com/document/d/1DYnxu6n9Y_MqooW1VJiTleU9jEI4_3GaQMMo8kRVJBY)
