@@ -1,7 +1,9 @@
 # PC Part Resources
 
 ***Placeholder disclaimer***
-I did not make any of these lists, and while they are a very useful reference resource, they may not be 100% accurate, always doublecheck your data if you're researching something.
+
+I did not make any of these lists, nor am I the author of any of the software linked.
+While they are a very useful reference resource, they may not be 100% accurate, always doublecheck your data if you're researching something.
 
 
 ## PSU
