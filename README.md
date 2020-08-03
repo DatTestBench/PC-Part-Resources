@@ -6,6 +6,8 @@ I did not make any of these lists, nor am I the author of any of the software li
 While they are a very useful reference resource, they may not be 100% accurate, always doublecheck your data if you're researching something.
 
 
+**Note**: there are a few so-called "Tier Lists" listed. Be aware that you should not use these as a primary source when it comes to making recommendations. They serve as very useful reference lists, but do your own research before using them, don't parrot them without knowing why they are tiered the way they are.
+
 ## PSU
 
 - [The most important PSU tier list](https://docs.google.com/document/d/1DYnxu6n9Y_MqooW1VJiTleU9jEI4_3GaQMMo8kRVJBY)
@@ -30,6 +32,9 @@ While they are a very useful reference resource, they may not be 100% accurate, 
 - [Gabriel Ferraz' SSD Comparison Spreadsheet](https://docs.google.com/spreadsheets/d/1BseYC1anSnrXorTuSLpuxIVUKm07SXy45ddVcpnHtas)
 - [Johnny Lucky's SSD Database](http://www.johnnylucky.org/data-storage/ssd-database.html)
 
+## Cooling
+
+- [WoodenMarker's CPU Cooler Performance Tier List](https://linustechtips.com/main/topic/891730-cpu-cooler-performance-tier-list/)
 
 ## Overclocking
 
