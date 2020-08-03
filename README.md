@@ -2,6 +2,7 @@
 
 ## PSU
 
+- [The most important PSU tier list](https://docs.google.com/document/d/1DYnxu6n9Y_MqooW1VJiTleU9jEI4_3GaQMMo8kRVJBY)
 - [Raisonjohn's PSU Comparison Spreadsheet](https://docs.google.com/spreadsheets/d/1i6gYAlEEB8Wpbr4E3jY3ctuYvNR5SiuokzPLb5WiQlw)
 - [PSUGuru's Power Supply Guide](https://docs.google.com/spreadsheets/d/1_GMev0EwK37J3zZL98zIqF-OSBuHlFEHmrc_SPuYsjs)
 - [psucultists' PSU Tier List](https://linustechtips.com/main/topic/1116640-psucultists-psu-tier-list/)
