@@ -91,6 +91,10 @@ While they are a very useful reference resource, they may not be 100% accurate, 
 
 	GPU torture test. Do note many GPUs will throttle clocks when they detect furmark, so not ideal for stability testing. (MSI's [Kombustor](https://geeks3d.com/furmark/kombustor/) is a very similar tool).
 
+- [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) *(Bottom of the page, `Download Mirror EU/US` for direct download)*
 
+	Useful to perform clean driver installs, mostly for GPU drivers. Accompanying [guide](https://www.wagnardsoft.com/content/ddu-guide-tutorial).
 
+- [Rufus](https://rufus.ie/)
 
+	Used to create bootable flash drives. If windows media creation tool doesn't work for you when making a bootable windows drive, or when making bootable linux usb drives, for instance, try this.
